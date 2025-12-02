@@ -13,3 +13,11 @@ http://127.0.0.1:8000/auth/users/				# To view the registered users if user is l
 http://127.0.0.1:8000/auth/token/login				# To obtain user authentication token
 
 http://127.0.0.1:8000/auth/token/logout				# To delete the user token
+
+
+
+Superuser Credentials:
+Username: Farhaj100
+Password: seman100
+
+One of the users testuser authentication token if you like to check his authentication: 4bdd1f0071cd1f8b6b9a7402cabd35840bda1337
